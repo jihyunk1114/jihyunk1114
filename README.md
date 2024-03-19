@@ -5,8 +5,7 @@ I am currently a PhD student in Statistics. Plus I have a master degree and bach
 I specialize at survival analysis on group-tested/arbitrarily censored data. Creating computationally-efficient stratigies, checking the perfomance with simulation studies, and real data applications are what I do for my research.
 
 In the meanwhile, I like to explore data with various tools!
-
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+[Link text]([linkedin](https://www.linkedin.com/in/jk1114/))
 
 <!--
 **jihyunk1114/jihyunk1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
