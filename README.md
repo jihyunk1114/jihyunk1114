@@ -1,5 +1,12 @@
 ### Hi there My name is Jihyun Kim👋
 
+I am currently a PhD student in Statistics. Plus I have a master degree and bachelor degree in Statistics. That is over 10 years of Statistics. ✨
+I specialize at survival analysis on group-tested/arbitrarily censored data. Creating computationally-efficient stratigies, checking the perfomance with simulation studies, and real data applications are what I do for my research.
+
+In the meanwhile, I like to explore data with various tools!
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)}" />
 <!--
 **jihyunk1114/jihyunk1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
