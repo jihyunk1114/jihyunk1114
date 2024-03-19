@@ -6,7 +6,7 @@ I specialize at survival analysis on group-tested/arbitrarily censored data. Cre
 
 In the meanwhile, I like to explore data with various tools!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/jk1114/)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/jk1114/)
 
 <!--
 **jihyunk1114/jihyunk1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
